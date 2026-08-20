@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreya Saha
 
-🎓 2nd Year B.Tech CSBS Student  
+🎓 3rd Year B.Tech CSBS Student  
 💻 Passionate about Programming and Web Development  
 🌱 Currently learning Data Structures and building projects  
 
