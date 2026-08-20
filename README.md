@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Skills
-- **Languages:** Java, Python, JavaScript  
+- **Languages:** C/C++, Python, JavaScript  
 - **Web Development:** HTML, CSS  
 - **Core Concepts:** Data Structures & Algorithms, OOP  
 - **Tools:** Git, GitHub, VS Code  
